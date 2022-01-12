@@ -5,5 +5,5 @@ Through text analysis and image analysis, use machine learning algorithm to clas
 1)    Notebook of exploratory data analysis;
 2)    Notebook of modelisation;
 3)    Presentation in english;
-4)    Support de soutenance;
+4)    Support de soutenance (in french);
 5)    readme file.
